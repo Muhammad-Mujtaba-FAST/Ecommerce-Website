@@ -1,0 +1,52 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Checkout Form</title>
+</head>
+<style>
+body{
+	background-image:url("billing.jpg"); 
+    background-size: cover;  
+	}
+</style>
+<body>
+<h1 align="center">Checkout Form </h1>	
+<div style="height:1080px;width:100%;">
+<h1 align="center">Payment and Delivery details </h1>	
+  <div style=" height:100%;width:30%;float: left;position: relative;left: 500px;">
+	
+	<p align="left" style="font-size:130%;">Product 1 : ATH Black headphones.</p>
+	<img src="headphones.jpg" alt="Headphones" height="200">
+	<p align="left" style="font-size:130%;">Product 2 : Apple MAC book.</p>
+	<img src="laptop.jpg" alt="Laptop" height="200">	
+	<p align="left" style="font-size:130%;">Product 3 : Brown Guitar</p>
+	<img src="guitar.jpg" alt="Guitar" height="200" width="250">	
+	<p align="left" style="font-size:130%;">Product 4 : Barioh Watch</p>
+	<img src="watch.jpg" alt="Watch" height="190">	
+  </div>
+  <div style=" height:100%;width:30%;float:right;position: relative;right:150px; ">
+  <p align="left" style="font-size:130%;">Product 1 : ATH Black headphones.</p>	  
+  <p align="left" style="font-size:130%;">Product number : 010402</p>
+  <p align="left" style="font-size:130%;">Product price : 60$.</p>
+  <p align="left" style="font-size:130%;">Delevered on : 1st April,2019.</p>
+  <br><br><br><br>
+  <p align="left" style="font-size:130%;">Product 2 : Apple MAC book.</p>
+  <p align="left" style="font-size:130%;">Product number : 020802</p>
+  <p align="left" style="font-size:130%;">Product price : 560$.</p>
+  <p align="left" style="font-size:130%;">Delevered on : 21st November,2019.</p>
+  <br><br><br><br> 
+  <p align="left" style="font-size:130%;">Product 3 : Brown Guitar</p>
+  <p align="left" style="font-size:130%;">Product number : 060402</p>
+  <p align="left" style="font-size:130%;">Product price : 360$.</p>
+  <p align="left" style="font-size:130%;">Delevered on : 31st December,2019.</p>	  
+  <br><br><br><br>
+  <p align="left" style="font-size:130%;">Product 4 : Barioh Watch</p>
+  <p align="left" style="font-size:130%;">Product number : 060762</p>
+  <p align="left" style="font-size:130%;">Product price : 2750$.</p>
+  <p align="left" style="font-size:130%;">Delevered on : 16th October,2020.</p>	  
+  </div>
+	
+</div>
+</body>
+</html>

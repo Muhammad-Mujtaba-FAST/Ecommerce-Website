@@ -1,0 +1,76 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Items</title>
+</head>
+<style>
+body{
+	background-image:url("bg.jpg"); 
+    background-size: cover;  
+	}
+</style>
+<body>
+	<h1 align="center">Products</h1>
+<div style="height:1080px;width:100%;">
+	<div style=" height:25%;width:100%;float:left; position: relative;left: 30px">
+	<img src="sh1.jpg" alt="Shoes" height="230">
+	<img src="wh.jpg" alt="watch" height="230">
+	<img src="lp.jpg" alt="laptop" height="230">
+	<img src="chair.jpeg" alt="chair" height="230" width="15%">
+	<img src="cpu.jpg" alt="cpu" height="230" width="15%">
+	</div>	
+	
+	<div style=" height:5%;width:20%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Nike Shoes : 50$.</p>
+</div>
+
+	<div style=" height:5%;width:20%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Jack Pierre Watch : 250$.</p>
+</div>
+
+<div style=" height:5%;width:25%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Apple MC book : 650$.</p>
+</div>	
+
+<div style=" height:5%;width:10%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Gaming chair : 150$.</p>
+</div>	
+	
+<div style=" height:5%;width:19%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Gaming unit : 750$.</p>
+</div>	
+
+	
+<div style=" height:35%;width:100%;float:left; position: relative;left: 30px; top:125px;">
+	<img src="table.jpg" alt="table" height="230">
+	<img src="headphones.jpg" alt="headphones" height="230">
+	<img src="wallet.jpg" alt="wallet" height="230">
+	<img src="pen.jpg" alt="pen" height="230" width="15%">
+	<img src="cl2.png" alt="shirt" height="230" width="15%">
+	</div>	
+	
+	<div style=" height:5%;width:20%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Wooden Table : 15$.</p>
+</div>
+
+	<div style=" height:5%;width:20%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Black Headphones : 50$.</p>
+</div>
+
+<div style=" height:5%;width:25%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Leather Wallet : 10$.</p>
+</div>	
+
+<div style=" height:5%;width:13%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">Parker pen : 100$.</p>
+</div>	
+	
+<div style=" height:5%;width:21%;float: left; border-color: black">
+<p align="center" style="font-size:130% ">AOT Shirt : 15$.</p>
+</div>		
+	
+	
+</div>	
+</body>
+</html>
